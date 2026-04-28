@@ -1,0 +1,7 @@
+Model,Calibration,Brier Score
+XGBoost (SPW),Raw,0.00041
+XGBoost (SPW),Platt (sigmoid),0.00041
+XGBoost (SPW),Isotonic,0.0004
+RF + SMOTE,Raw,0.00055
+RF + SMOTE,Platt (sigmoid),0.00045
+RF + SMOTE,Isotonic,0.00044
