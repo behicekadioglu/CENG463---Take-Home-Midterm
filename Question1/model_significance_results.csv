@@ -1,0 +1,7 @@
+Comparison,Metric Used,p-value,Significant (α=0.05)
+Linear vs Ridge,RMSE,0.08325,No
+Linear vs Lasso,RMSE,6e-05,Yes
+Linear vs ElasticNet,RMSE,6e-05,Yes
+Linear vs XGBoost,RMSE,6e-05,Yes
+Linear vs Huber,MAE,6e-05,Yes
+XGBoost vs Huber,MAE,6e-05,Yes
