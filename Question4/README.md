@@ -1,11 +1,11 @@
 # Question 4: Clustering – Gaussian Mixture Models, Cluster Ensembles, and Stability Analysis
 
-## 🎯 Objective
+## Objective
 The objective of this task is to apply advanced clustering techniques beyond standard K-Means, focusing on model selection, ensemble methods, and rigorous stability evaluation.
-## 📊 Dataset
+## Dataset
 * **Dataset Used:** A real-world dataset (Wholesale Customer) and `optdigits` for external validation.
 
-## 🛠️ Implementation Tasks
+## Implementation Tasks
 
 ### 1. Clustering Algorithms & Model Selection
 Implement and tune four distinct clustering algorithms:
@@ -26,6 +26,6 @@ Implement and tune four distinct clustering algorithms:
 * **Implementation:** Combine results from K-Means (various $k$), GMM, and DBSCAN using majority voting or a co-association matrix.
 * **Comparison:** Evaluate the ensemble’s performance against individual algorithms using ARI/NMI.
 
-## 🔍 Visual Analysis & Discussion
+## Visual Analysis & Discussion
 * **Projections:** Visualize clusters using PCA or UMAP to highlight differences in cluster shapes (spherical vs. arbitrary).
 * **Theoretical Discussion:** Analyze the underlying assumptions of each algorithm (e.g., density-based vs. Gaussian mixtures) and how violations affect results.
