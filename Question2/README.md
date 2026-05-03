@@ -1,13 +1,13 @@
 # Question 2: Classification – Extreme Imbalance, Cost-Sensitive Learning, and Calibration
 
-## 🎯 Objective
+## Objective
 The primary goal of this task is to address severe class imbalance using advanced resampling techniques, cost-sensitive learning methods, and probability calibration.
 
-## 📊 Dataset
+## Dataset
 * **Dataset Used:** Extremely imbalanced dataset (credit card fraud dataset).
 * **Imbalance Ratio (IR):** Report the specific IR for the selected dataset.
 
-## 🛠️ Implementation Tasks
+## Implementation Tasks
 
 ### 1. Resampling Strategies
 Implement three strategies using a pipeline to avoid data leakage:
@@ -33,7 +33,7 @@ Perform calibration on the best two models:
 * Matthews Correlation Coefficient (MCC).
 * Balanced Accuracy.
 
-## 🔍 Analysis & Discussion
+## Analysis & Discussion
 * **Threshold Optimization:** Determine optimal threshold using F1-maximization or cost-weighted decision.
 * **Precision-Recall Trade-off:** Analyze the trade-off using PR curves.
 * **Cost Analysis:** Discuss the confusion matrix and the real-world cost of false negatives vs. false positives.
