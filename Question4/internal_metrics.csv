@@ -1,0 +1,6 @@
+Model,Clusters,Silhouette,CH-Index,DB-Index
+KMeans,2,0.2903,189.05,1.3515
+GMM,4,0.1717,75.73,2.3411
+DBSCAN,2,0.0608,14.13,3.7404
+Agglomerative,2,0.2585,134.62,1.6004
+Ensemble,2,0.2896,188.52,1.3546

@@ -1,0 +1,5 @@
+Method,Mean_ARI,Std_ARI
+KMeans,0.956,0.0514
+GMM,0.8149,0.0754
+Agglomerative,0.5115,0.1874
+DBSCAN,0.7545,0.0667
