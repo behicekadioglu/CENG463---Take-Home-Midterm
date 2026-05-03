@@ -30,6 +30,6 @@ Compare at least four regression models:
 * **Primary Metrics:** RMSE, MAE, $R^{2}$, Adjusted $R^{2}$, MAPE, and Explained Variance Score.
 * **Statistical Testing:** Perform paired t-tests or Wilcoxon signed-rank tests to determine the significance of differences between models.
 
-## 🔍 Analysis & Discussion
+## Analysis & Discussion
 * **Residual Analysis:** Provide residual plots (fitted vs. residuals) and Q-Q plots to discuss violations of model assumptions.
 * **Model Trade-offs:** Conclude with a detailed discussion on the bias-variance trade-off observed across the implemented models.
