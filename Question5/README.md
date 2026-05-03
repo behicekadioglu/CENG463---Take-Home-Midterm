@@ -1,12 +1,12 @@
 # Question 5: Neural Networks – Regularization, Transfer Learning, and Interpretability
 
-## 🎯 Objective
+## Objective
 The objective of this task is to design and train deep neural networks with advanced regularization, compare their performance against transfer learning models, and apply interpretability and robustness techniques.
 
-## 📊 Dataset
+## Dataset
 * **Dataset Used:** CIFAR-10.
 
-## 🛠️ Implementation Tasks
+## Implementation Tasks
 
 ### 1. Model Architectures
 Implement the following architectures from scratch using PyTorch or TensorFlow:
@@ -29,6 +29,6 @@ Applying techniques to explain model decisions:
 * **Attack Methods:** Testing models using FGSM (Fast Gradient Sign Method) or PGD (Projected Gradient Descent).
 * **Comparison:** Reporting accuracy under attack to compare the robustness of the MLP, CNN, and pre-trained models.
 
-## 🔍 Analysis & Discussion
+## Analysis & Discussion
 * **Regularization Impact:** Discussion on overfitting and the effectiveness of batch norm and dropout.
 * **Trade-offs:** A concluding analysis on the trade-offs between model complexity, interpretability, and robustness.
