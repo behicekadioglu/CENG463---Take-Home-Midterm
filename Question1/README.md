@@ -1,12 +1,12 @@
 # Question 1: Regression Analysis – Regularization, Feature Engineering, and Model Selection
 
-## 🎯 Objective
+## Objective
 The objective of this task is to rigorously compare multiple regression models using advanced regularization techniques, extensive feature engineering, and statistical significance testing.
 
-## 📊 Dataset
+## Dataset
 * **Dataset Used:** California Housing dataset.
 
-## 🛠️ Implementation Tasks
+## Implementation Tasks
 
 ### 1. Exploratory Data Analysis (EDA)
 * Perform deep EDA including visualization of feature distributions and correlation heatmaps.
