@@ -1,12 +1,12 @@
 # Question 3: Dimensionality Reduction – Autoencoders and Manifold Learning
 
-## 🎯 Objective
+## Objective
 The objective of this task is to compare linear, non-linear, and deep learning-based dimensionality reduction techniques, evaluating their performance through reconstruction quality and downstream classification tasks.
 
-## 📊 Dataset
+## Dataset
 * **Dataset Used:** MNIST.
 
-## 🛠️ Implementation Tasks
+## Implementation Tasks
 
 ### 1. Dimensionality Reduction Methods
 Implement and compare five distinct methods:
@@ -26,6 +26,6 @@ Implement and compare five distinct methods:
 * **Embeddings:** 2D visualizations of embeddings for all methods, colored by class to compare class separation.
 * **Latent Space:** Visual analysis of the autoencoder's latent space to determine if it captures semantic structures such as digit style or thickness.
 
-## 🔍 Analysis & Discussion
+## Analysis & Discussion
 * **Computational Complexity:** Discussion of the time and memory requirements for each method.
 * **Comparative Performance:** Analysis of scenarios where autoencoders might outperform traditional methods like PCA or t-SNE.
